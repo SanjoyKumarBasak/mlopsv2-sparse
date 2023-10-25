@@ -498,7 +498,7 @@
                   "subnet": "[json('null')]",
                   "osType": "Linux",
                   "scaleSettings": {
-                    "maxNodeCount": 4,
+                    "maxNodeCount": 1,
                     "minNodeCount": 0
                   }
                 }
