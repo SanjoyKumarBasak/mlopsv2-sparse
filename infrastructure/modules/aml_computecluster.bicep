@@ -12,7 +12,7 @@ resource amlci 'Microsoft.MachineLearningServices/workspaces/computes@2020-09-01
       subnet: json('null')
       osType: 'Linux'
       scaleSettings: {
-        maxNodeCount: 4
+        maxNodeCount: 1
         minNodeCount: 0
       }
     }
